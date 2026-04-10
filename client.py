@@ -1,4 +1,4 @@
-import socket, struct, threading, sys, signal, time, os, random, base64, hashlib, hmac, tty, termios, string
+import socket, struct, threading, sys, signal, os, random, base64, hashlib, hmac, tty, termios, string
 from Crypto import Random
 from Crypto.Cipher import AES,PKCS1_OAEP
 from Crypto.PublicKey import RSA
